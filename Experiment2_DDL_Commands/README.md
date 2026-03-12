@@ -305,7 +305,7 @@ VALUES ('978-1122334455', 'Cybersecurity Essentials', 'Alice Smith', 2021);
 
 ## Screenshot of Module 1 SEB Completion Grades
 
-
+<img width="1140" height="61" alt="image" src="https://github.com/user-attachments/assets/51af8d15-d7fe-46e5-b3e7-2f5647c9f2d1" />
 
 <img width="1920" height="1080" alt="Screenshot 2026-03-12 093511" src="https://github.com/user-attachments/assets/9e100dc4-f293-4fc5-960f-d1e19a7feca6" />
 
