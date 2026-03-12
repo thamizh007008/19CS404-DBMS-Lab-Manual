@@ -395,9 +395,11 @@ WHERE ename LIKE'__r%';
 
 ## Module 2 SEB Completion Grades
 
-<img width="1164" height="73" alt="image" src="https://github.com/user-attachments/assets/d9b6b6fa-d246-45a7-b588-8ea9845a7ee0" />
+<img width="1221" height="80" alt="image" src="https://github.com/user-attachments/assets/55536c27-c4cd-4b33-9290-36f6f794c5bb" />
 
-<img width="1867" height="921" alt="image" src="https://github.com/user-attachments/assets/f4030864-544a-4257-8cc4-fe42874fa144" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-03-12 093538" src="https://github.com/user-attachments/assets/7d572bdf-f4ef-4b4c-bb2e-e96d605fce2d" />
+
 
 ## RESULT
 Thus, the SQL queries to implement DML commands have been executed successfully.
