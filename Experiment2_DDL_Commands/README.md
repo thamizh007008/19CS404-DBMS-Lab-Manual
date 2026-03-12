@@ -305,9 +305,9 @@ VALUES ('978-1122334455', 'Cybersecurity Essentials', 'Alice Smith', 2021);
 
 ## Screenshot of Module 1 SEB Completion Grades
 
-<img width="1190" height="151" alt="image" src="https://github.com/user-attachments/assets/c4a942b7-b395-47b7-afb7-a7f79472e87d" />
 
-<img width="1899" height="939" alt="image" src="https://github.com/user-attachments/assets/1b1900c3-88fe-41ed-8c2a-31018f5bc76f" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-03-12 093511" src="https://github.com/user-attachments/assets/9e100dc4-f293-4fc5-960f-d1e19a7feca6" />
 
 ## RESULT
 Thus, the SQL queries to implement different types of constraints and DDL commands have been executed successfully.
