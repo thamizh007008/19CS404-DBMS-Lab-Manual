@@ -202,9 +202,10 @@ HAVING MIN(price) < 10;
 
 ## Module 3 SEB Completion Grades
 
-<img width="1046" height="71" alt="image" src="https://github.com/user-attachments/assets/40263edf-d190-4187-b32a-fb6b9cc3be0a" />
+<img width="1145" height="75" alt="image" src="https://github.com/user-attachments/assets/74bfeda6-85c3-4acc-bd0a-dd84bd1e6fab" />
 
-<img width="1861" height="929" alt="image" src="https://github.com/user-attachments/assets/6f592522-5d6f-4092-ad33-ea562fcfa052" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-12 093557" src="https://github.com/user-attachments/assets/5bdbf337-b2f4-4b3a-98a4-3d0963559c1f" />
+
 
 ## RESULT
 Thus, the SQL queries to implement aggregate functions, GROUP BY, and HAVING clause have been executed successfully.
