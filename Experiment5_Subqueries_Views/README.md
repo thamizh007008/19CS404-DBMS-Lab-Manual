@@ -219,9 +219,9 @@ WHERE salesman_id = (
 
 ## Module 4 SEB Completion Grades
 
-<img width="1037" height="68" alt="image" src="https://github.com/user-attachments/assets/2e2fdc43-1858-48d1-959a-a83504652d5b" />
+<img width="1126" height="81" alt="image" src="https://github.com/user-attachments/assets/d6ac468b-0d21-4223-9da7-b6e8f0a70291" />
 
-<img width="1483" height="936" alt="image" src="https://github.com/user-attachments/assets/35c53624-3ed6-4fe0-a8df-63cb6a44978f" />
+ <img width="1920" height="1080" alt="Screenshot 2026-03-12 093612" src="https://github.com/user-attachments/assets/7b11d402-b942-4079-9e39-994b800154fb" />
 
 ## RESULT
 Thus, the SQL queries to implement subqueries and views have been executed successfully.
