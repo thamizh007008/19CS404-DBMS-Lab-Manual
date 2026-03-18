@@ -243,8 +243,10 @@ WHERE s.commission > 0.12;
 
 ## Module 5 SEB Completion Grades
 
-<img width="1150" height="58" alt="image" src="https://github.com/user-attachments/assets/d27e971f-ff64-4d8a-81eb-919e9f4732ac" />
-<img width="1881" height="969" alt="image" src="https://github.com/user-attachments/assets/ce745b1c-e672-4dd5-bde3-0ffdb7d203b8" />
+<img width="978" height="73" alt="image" src="https://github.com/user-attachments/assets/c2a3dbed-7a1a-44b7-84fc-d854860d962f" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b00a6310-20bc-47b2-bb3c-11092dfc9006" />
+
 
 ## RESULT
 Thus, the SQL queries to implement different types of joins have been executed successfully.
